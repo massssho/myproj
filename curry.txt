@@ -1,0 +1,5 @@
+I am curry.
+and,
+I am not banana.
+But,
+I was apple.
