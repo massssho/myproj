@@ -9,3 +9,5 @@ test_reset
 text_pull
 test_pull2
 test_pr
+test_pr2
+test_pr3
